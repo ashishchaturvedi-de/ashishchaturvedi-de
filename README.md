@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ashish Chaturvedi
 
-<!--
-**ashishchaturvedi-de/ashishchaturvedi-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer building data pipelines with Python, SQL, and cloud tools.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tech I work with
+- **Languages:** Python, SQL
+- **Data:** Pandas, dbt
+- **Tools:** Git, Linux, Bash
+- **Data Warehousing, Spark, Databricks**
 -->
+## Projects
+- [Project name] -
+
+## Contact
+- LinkedIn: (https://www.linkedin.com/in/ashish2748/?isSelfProfile=true)
+- Email: chaturvediashish1995@gmail.com
