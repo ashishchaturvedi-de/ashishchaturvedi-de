@@ -9,7 +9,7 @@ Data Engineer building data pipelines with Python, SQL, and cloud tools.
 - **Data Warehousing, Spark, Databricks**
 -->
 ## Projects
-- [Project name] -
+- [Pandas ETL Pipeline](https://github.com/ashishchaturvedi-de/pandas-etl-pipeline) - combines four e-commerce sources into reporting tables
 
 ## Contact
 - LinkedIn: (https://www.linkedin.com/in/ashish2748/?isSelfProfile=true)
